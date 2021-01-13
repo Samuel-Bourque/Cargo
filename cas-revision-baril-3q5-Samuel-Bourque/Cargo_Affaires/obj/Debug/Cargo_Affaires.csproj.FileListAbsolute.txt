@@ -1,0 +1,6 @@
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\bin\Debug\Cargo_Affaires.dll
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\bin\Debug\Cargo_Affaires.pdb
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\obj\Debug\Cargo_Affaires.csprojAssemblyReference.cache
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\obj\Debug\Cargo_Affaires.csproj.CoreCompileInputs.cache
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\obj\Debug\Cargo_Affaires.dll
+C:\Users\1232291\Source\Repos\cas-revision-baril-3q5-Samuel-Bourque\Cargo_Affaires\obj\Debug\Cargo_Affaires.pdb
